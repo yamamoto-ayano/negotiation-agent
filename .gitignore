@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.envrc
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+
+# Notion/プロジェクト固有
+backend/.env
+frontend/.env
+
+# その他
+*.log

@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+pydub
+python-dotenv
+notion-client 
