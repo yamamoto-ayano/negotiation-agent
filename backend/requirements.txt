@@ -3,4 +3,5 @@ uvicorn
 openai
 pydub
 python-dotenv
-notion-client 
+notion-client
+langchain-community 
