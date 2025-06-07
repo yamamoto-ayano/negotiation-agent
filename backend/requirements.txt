@@ -4,4 +4,5 @@ openai
 pydub
 python-dotenv
 notion-client
-langchain-community 
+langchain-community
+python-multipart 
